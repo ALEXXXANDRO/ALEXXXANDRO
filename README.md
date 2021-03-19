@@ -1,7 +1,11 @@
-### Hi there 👋
+<div align="center">
+	<img src="https://i.gifer.com/origin/52/52e4bb28d095ff93d3a4019d43d628bc_w200.webp" width="200" height="200">
+</div>
 
-<!--
-**ALEXXXANDRO/ALEXXXANDRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <div>ITMO University student, Second year </div>
+  <div>Severe Barnaul guy</div>
+</div>
 
 Here are some ideas to get you started:
 
