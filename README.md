@@ -3,6 +3,6 @@
 </div>
 
 <div align="center">
-  <div>ITMO University student, Second year </div>
-  <div>Severe Barnaul guy</div>
+  <div>ITMO University student, Third year </div>
+  <div>I try like this pug.</div>
 </div>
